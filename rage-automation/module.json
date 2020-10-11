@@ -1,0 +1,21 @@
+{
+	"name": "rage-automation",
+	"title": "Rage Automation",
+	"description": "Automaticaly setup rage for Barbarian actors.",
+	"minimumCoreVersion": "0.6.0",
+	"compatibleCoreVersion": "0.6.6",
+	"version": "0.1",
+	"author": "Thandulfan#0087",
+	"languages": [],
+	"systems": ["dnd5e"],
+	"esmodules": [
+		"./scripts/rage-automation.js",
+		"./scripts/settings.js",
+		"./scripts/hooks.js"
+	],
+	"styles": [],
+	"packs": [],
+	"url": "https://github.com/krysztalzg/FoundryVTT-RageAutomation/tree/master/rage-automation",
+	"manifest": "https://raw.githubusercontent.com/krysztalzg/FoundryVTT-RageAutomation/master/rage-automation/module.json",
+	"download": "https://github.com/krysztalzg/FoundryVTT-RageAutomation/raw/master/rage-automation.zip"
+}
